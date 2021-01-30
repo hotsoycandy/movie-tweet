@@ -1,3 +1,8 @@
+# config
+
+config/config.json
+config/google_auth.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

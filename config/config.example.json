@@ -1,0 +1,16 @@
+{
+  "tweepy": {
+    "consumer_key": "tweet-auth",
+    "consumer_secret": "tweet-auth",
+    "access_token": "tweet-auth",
+    "access_token_secret": "tweet-auth"
+  },
+  "google": {
+    "bigquery": {
+      "tableId": "big query table name"
+    }
+  },
+  "kmdb": {
+    "apiKey": "kmdb api key"
+  }
+}
